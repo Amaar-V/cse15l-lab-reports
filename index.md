@@ -1,4 +1,4 @@
-# *CSE 15L Lab Report*
+# *CSE 15L Mudkip Report*
 ## **Amaar Valliani**
 
 ***Mudkip is the best pokemon.***
