@@ -17,7 +17,7 @@ public class mudkip
     public static void main(String args[])
     {
         String poke = "";
-        int arry = {109,117,100,107,105,112};
+        int arry[] = {109,117,100,107,105,112};
         for(int i:arry)
             poke += (char)i;
         System.out.println(poke);
